@@ -41,3 +41,4 @@ console.log(n);
 for(n=1;n<11;n++){
     console.log(n)
 }
+//Teste
